@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fouadktb)](https://github.com/Fouadktb/github-profile-trophy)
+
 <!--
 **Fouadktb/Fouadktb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
