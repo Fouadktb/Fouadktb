@@ -3,13 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fouadktb)](https://github.com/Fouadktb/github-profile-trophy)
 
 
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=Fouadktb&repo=covid19-japan-web-api&theme=monokai)](https://github.com/Fouadktb/covid19-japan-web-api)
-
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=Fouadktb&repo=lazyhub&theme=monokai)](https://github.com/Fouadktb/lazyhub)
-
-[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=Fouadktb&repo=deno-websocket&theme=monokai)](https://github.com/Fouadktb/deno-websokcet)
-
-
 <!--
 **Fouadktb/Fouadktb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
