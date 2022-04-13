@@ -1,6 +1,6 @@
 <h2>Sup! I'm Fouad Khatib <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Front-End Developer at <a href="https://www.cuisine.digital/en/">Digital Cuisine</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fouadktb?label=Follow)](https://twitter.com/intent/follow?screen_name=fouadktb)
