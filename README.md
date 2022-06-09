@@ -6,12 +6,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fouadktb?label=Follow)](https://twitter.com/intent/follow?screen_name=fouadktb)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=fouadkhatib.dev/)](https://fouadkhatib.dev/)
 
-👇 Hit in your console or terminal to connect with me.
+<!-- 👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx fouadktb
 ```
-**👆 This command line tool can be found at [npx fouadktb](https://github.com/fouadktb/npx_card)**
+**👆 This command line tool can be found at [npx fouadktb](https://github.com/fouadktb/npx_card)** -->
 
 ### <img src="https://media.giphy.com/media/l1J9vaV4Zp0Vz66iI/giphy.gif" width="50"> A little more about me...  
 
